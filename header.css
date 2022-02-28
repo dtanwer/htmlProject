@@ -1,0 +1,28 @@
+a{
+    text-decoration:none;
+    color:black; 
+    margin: 10px;
+    
+}
+a:hover{
+    color:skyblue;
+    font-weight: bold;
+
+}
+.top{
+    background-color:white;
+    text-align: center;
+    padding: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+     
+}
+#hading{
+    color: white;
+    margin: 1px;
+    padding: 5px;
+}
+#main{
+    color: skyblue;
+}

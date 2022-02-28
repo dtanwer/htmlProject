@@ -1,0 +1,38 @@
+.login{
+    float: left;
+    background-color: white;
+    
+
+}
+#power{
+    float: left;
+    margin-right: 15px;
+    
+}
+.main{
+    height:200px;
+    width:100%; 
+}
+p{
+    
+    text-align:left;
+    width:100%;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.sugg{
+    margin:50px;
+    background-color: white;
+}
+#qurry{
+    width: 50%;
+        padding: 12px 20px;
+        margin: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: white;
+}
+body{
+    background-color: rgb(31, 44, 105);
+}
